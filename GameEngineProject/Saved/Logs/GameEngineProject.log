@@ -572,3 +572,1479 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 6 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
 [2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 7 (Closing connection 0)
 [2019.09.17-13.52.13:160][420]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-13.53.03:422][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.53.03:471][763]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-13.53.03:475][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.17-13.53.03:475][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-13.53.03:476][763]PIE: New page: PIE session: FirstPersonExampleMap (Sep 17, 2019, 5:53:03 AM)
+[2019.09.17-13.53.03:489][763]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.17-13.53.03:503][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013468s)
+[2019.09.17-13.53.03:503][763]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.17-13.53.03:504][763]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2019.09.17-13.53.03:504][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014412s)
+[2019.09.17-13.53.03:528][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.09.17-13.53.03:538][763]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-13.53.03:554][763]LogInit: FAudioDevice initialized.
+[2019.09.17-13.53.03:597][763]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-13.53.03:600][763]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.17-09.53.03
+[2019.09.17-13.53.03:601][763]LogWorld: Bringing up level for play took: 0.002137
+[2019.09.17-13.53.03:624][763]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.09.17-13.53.03:625][763]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.895
+[2019.09.17-13.53.03:625][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.17-13.53.12:479][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.17-13.53.12:479][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.53.12:508][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-13.53.12:509][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.17-13.53.12:535][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.53.12:537][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.09.17-13.53.12:588][296]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.09.17-13.53.16:738][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.53.21:175][808]LogRenderer: Reallocating scene render targets to support 964x708 Format 10 NumSamples 1 (Frame:973).
+[2019.09.17-13.53.34:154][585]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.09.17-13.53.36:241][710]LogSlate: Window 'Levels' being destroyed
+[2019.09.17-13.53.36:247][710]LogSlate: Window 'Levels' being destroyed
+[2019.09.17-13.54.03:351][334]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.17-13.54.03:360][334]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.09.17-13.54.03:385][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.09.17-13.54.03:386][334]LightingResults: New page: Lighting Build
+[2019.09.17-13.54.03:386][334]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.09.17-13.54.03:387][334]MapCheck: New page: Map Check
+[2019.09.17-13.54.03:387][334]LightingResults: New page: Lighting Build
+[2019.09.17-13.54.03:415][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.17-13.54.03:434][334]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.17-13.54.03:596][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-13.54.03:620][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.09.17-13.54.03:638][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-13.54.03:638][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2019.09.17-13.54.03:639][334]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.254
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 1 (  Trying 18.208.48.150...)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (18.208.48.150) port 443 (#1))
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: 00000246081F5580: libcurl info message cache 8 (Closing connection 1)
+[2019.09.17-13.54.13:307][914]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-13.54.55:174][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.09.17-13.54.56:512][416]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.17-13.54.56:578][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.17-13.55.09:771][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.09.17-13.55.09:852][ 86]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.55.32:119][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.09.17-13.55.32:119][414]LogMetaData: Removing '/Game/Phil/TestMap.SKEL_TestMap_C' ref from Metadata '/Game/FirstPersonCPP/Maps/TestMap.PackageMetaData'
+[2019.09.17-13.55.32:119][414]LogMetaData: Removing '/Game/Phil/TestMap.TestMap_C' ref from Metadata '/Game/FirstPersonCPP/Maps/TestMap.PackageMetaData'
+[2019.09.17-13.55.32:681][414]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData308A761846FD89284ED054AC13D42DA9.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-13.55.32:768][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.09.17-13.55.32:875][414]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap0CE4B5B24C353DA6CF5101940D028212.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-13.55.32:881][414]LogFileHelpers: Saving map 'TestMap' took 0.181
+[2019.09.17-13.55.33:001][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.09.17-13.55.33:023][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.09.17-13.55.33:052][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.09.17-13.55.33:076][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.09.17-13.55.35:503][558]LogAssetEditorManager: Opening Asset editor for World /Game/Phil/TestMap.TestMap
+[2019.09.17-13.55.35:527][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.09.17-13.55.35:528][558]Cmd: MAP LOAD FILE="../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.17-13.55.35:528][558]LightingResults: New page: Lighting Build
+[2019.09.17-13.55.35:528][558]LoadErrors: New page: Loading map: TestMap.umap
+[2019.09.17-13.55.35:529][558]MapCheck: New page: Map Check
+[2019.09.17-13.55.35:529][558]LightingResults: New page: Lighting Build
+[2019.09.17-13.55.35:557][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.17-13.55.35:621][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-13.55.35:647][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.09.17-13.55.35:680][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-13.55.35:680][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2019.09.17-13.55.35:681][558]LogFileHelpers: Loading map 'TestMap' took 0.154
+[2019.09.17-13.55.36:916][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-13.55.36:923][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.55.36:924][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-13.55.36:924][631]PIE: New page: PIE session: TestMap (Sep 17, 2019, 5:55:36 AM)
+[2019.09.17-13.55.36:924][631]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-13.55.36:933][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008753s)
+[2019.09.17-13.55.36:933][631]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.55.36:933][631]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2019.09.17-13.55.36:933][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.009654s)
+[2019.09.17-13.55.36:957][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.09.17-13.55.36:963][631]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-13.55.36:978][631]LogInit: FAudioDevice initialized.
+[2019.09.17-13.55.37:005][631]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-13.55.37:007][631]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-09.55.37
+[2019.09.17-13.55.37:007][631]LogWorld: Bringing up level for play took: 0.001239
+[2019.09.17-13.55.37:019][631]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.289
+[2019.09.17-13.55.37:019][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.55.38:859][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.55.38:859][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.55.38:889][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-13.55.38:890][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.55.38:918][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.55.38:921][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.09.17-13.55.38:972][744]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.17-13.55.40:906][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.55.41:046][868]LogAssetEditorManager: Opening Asset editor for World /Game/Phil/TestMap.TestMap
+[2019.09.17-13.55.41:071][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.09.17-13.55.41:071][868]Cmd: MAP LOAD FILE="../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.17-13.55.41:071][868]LightingResults: New page: Lighting Build
+[2019.09.17-13.55.41:072][868]LoadErrors: New page: Loading map: TestMap.umap
+[2019.09.17-13.55.41:073][868]MapCheck: New page: Map Check
+[2019.09.17-13.55.41:073][868]LightingResults: New page: Lighting Build
+[2019.09.17-13.55.41:099][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.17-13.55.41:115][868]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.55.41:180][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-13.55.41:207][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.09.17-13.55.41:235][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-13.55.41:235][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2019.09.17-13.55.41:236][868]LogFileHelpers: Loading map 'TestMap' took 0.165
+[2019.09.17-13.55.42:969][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.17-13.55.43:648][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.09.17-13.55.48:648][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2019.09.17-13.55.52:193][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-13.55.52:228][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.09.17-13.55.52:356][517]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap6FDB85DA4F8C9E007E3C6EB4E2A1A300.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-13.55.53:174][517]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData2060C49748C5046593846E8B36B797CE.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-13.55.54:527][598]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-13.55.54:531][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.55.54:531][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-13.55.54:531][598]PIE: New page: PIE session: TestMap (Sep 17, 2019, 5:55:54 AM)
+[2019.09.17-13.55.54:531][598]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-13.55.54:540][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008954s)
+[2019.09.17-13.55.54:541][598]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.55.54:541][598]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2019.09.17-13.55.54:541][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.009543s)
+[2019.09.17-13.55.54:566][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.17-13.55.54:573][598]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-13.55.54:587][598]LogInit: FAudioDevice initialized.
+[2019.09.17-13.55.54:614][598]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-13.55.54:616][598]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-09.55.54
+[2019.09.17-13.55.54:617][598]LogWorld: Bringing up level for play took: 0.001262
+[2019.09.17-13.55.54:629][598]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.101
+[2019.09.17-13.55.54:629][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.56.03:107][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.56.03:107][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.56.03:139][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-13.56.03:139][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.56.03:166][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.56.03:168][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.09.17-13.56.03:221][109]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.17-13.56.07:196][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.56.07:335][355]LogAssetEditorManager: Opening Asset editor for World /Game/Phil/TestMap.TestMap
+[2019.09.17-13.56.07:361][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.17-13.56.07:362][355]Cmd: MAP LOAD FILE="../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.17-13.56.07:362][355]LightingResults: New page: Lighting Build
+[2019.09.17-13.56.07:362][355]LoadErrors: New page: Loading map: TestMap.umap
+[2019.09.17-13.56.07:363][355]MapCheck: New page: Map Check
+[2019.09.17-13.56.07:363][355]LightingResults: New page: Lighting Build
+[2019.09.17-13.56.07:397][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.09.17-13.56.07:431][355]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.56.07:511][355]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-13.56.07:536][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.09.17-13.56.07:546][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-13.56.07:546][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2019.09.17-13.56.07:547][355]LogFileHelpers: Loading map 'TestMap' took 0.185
+[2019.09.17-13.56.13:448][709]LogHttp: Warning: 000002464DE447C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-13.56.13:448][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-13.56.13:448][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 1 (  Trying 3.227.136.220...)
+[2019.09.17-13.56.13:448][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-13.56.13:449][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.227.136.220) port 443 (#2))
+[2019.09.17-13.56.13:449][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-13.56.13:449][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-13.56.13:449][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-13.56.13:449][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-13.56.13:449][709]LogHttp: Warning: 000002464DE447C0: libcurl info message cache 8 (Closing connection 2)
+[2019.09.17-13.56.13:468][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-13.56.13:500][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.17-13.56.13:618][709]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap6D57C67244469F4C0A41C4AE2FD1B2AB.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-13.56.14:407][709]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltDataCB5858584F12896279DCCF9A81058178.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-13.56.14:427][710]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-13.56.33:733][854]LogActorFactory: Actor Factory created Plane
+[2019.09.17-13.56.38:564][143]LogActorFactory: Actor Factory created Plane
+[2019.09.17-13.56.57:026][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.57.18:275][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-13.57.18:309][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.17-13.57.18:430][521]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap4CED6F2A4F584E570EAE2587A7AA5CF5.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-13.57.18:981][521]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData7C66ACD5492A526346DB7F8FA467E664.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-13.57.19:857][573]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-13.57.19:863][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.19:863][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-13.57.19:863][573]PIE: New page: PIE session: TestMap (Sep 17, 2019, 5:57:19 AM)
+[2019.09.17-13.57.19:863][573]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-13.57.19:874][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010773s)
+[2019.09.17-13.57.19:874][573]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.57.19:875][573]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2019.09.17-13.57.19:875][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.011418s)
+[2019.09.17-13.57.19:900][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.09.17-13.57.19:907][573]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-13.57.19:921][573]LogInit: FAudioDevice initialized.
+[2019.09.17-13.57.19:950][573]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-13.57.19:952][573]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-09.57.19
+[2019.09.17-13.57.19:952][573]LogWorld: Bringing up level for play took: 0.001223
+[2019.09.17-13.57.19:964][573]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.766
+[2019.09.17-13.57.19:965][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.23:157][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.23:157][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.57.23:191][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-13.57.23:191][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.23:218][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.57.23:220][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.09.17-13.57.23:258][766]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.09.17-13.57.28:643][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.09.17-13.57.31:628][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.57.36:880][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.09.17-13.57.36:990][579]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap2DB626B542924359CCC5A9AAE310B7E9.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-13.57.37:538][579]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltDataFA05628D48FC2797D113F58A755B386D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-13.57.38:072][611]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-13.57.38:076][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.38:076][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-13.57.38:076][611]PIE: New page: PIE session: TestMap (Sep 17, 2019, 5:57:38 AM)
+[2019.09.17-13.57.38:076][611]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-13.57.38:086][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009121s)
+[2019.09.17-13.57.38:086][611]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.57.38:086][611]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.09.17-13.57.38:086][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.009725s)
+[2019.09.17-13.57.38:110][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.09.17-13.57.38:117][611]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-13.57.38:130][611]LogInit: FAudioDevice initialized.
+[2019.09.17-13.57.38:157][611]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-13.57.38:160][611]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-09.57.38
+[2019.09.17-13.57.38:160][611]LogWorld: Bringing up level for play took: 0.001203
+[2019.09.17-13.57.38:172][611]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.559
+[2019.09.17-13.57.38:172][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.42:845][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.42:845][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.57.42:873][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-13.57.42:873][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.57.42:899][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-13.57.42:902][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.09.17-13.57.42:952][894]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.17-13.57.45:473][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-13.57.49:144][265]MapCheck: New page: Map Check
+[2019.09.17-13.57.49:163][265]LightingResults: New page: Lighting Build - Sep 17, 2019, 5:57:49 AM
+[2019.09.17-13.57.49:207][265]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.17-13.57.49:266][265]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.17-13.57.49:279][265]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.17-13.57.49:841][265]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.17-13.57.49:841][265]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7820
+[2019.09.17-13.57.52:715][265]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.17-13.57.52:715][265]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.17-13.57.52:715][265]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.17-13.57.52:715][265]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.17-13.57.52:715][265]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.17-13.57.52:881][265]LogEditorBuildUtils: Build time 0:03
+[2019.09.17-13.57.52:920][266]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.09.17-13.57.52:932][266]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.09.17-13.57.53:981][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.09.17-13.58.14:566][479]LogHttp: Warning: 00000246720182C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-13.58.14:566][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-13.58.14:566][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 1 (  Trying 52.203.166.246...)
+[2019.09.17-13.58.14:566][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-13.58.14:566][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.203.166.246) port 443 (#3))
+[2019.09.17-13.58.14:566][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-13.58.14:567][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-13.58.14:567][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-13.58.14:567][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-13.58.14:567][479]LogHttp: Warning: 00000246720182C0: libcurl info message cache 8 (Closing connection 3)
+[2019.09.17-13.58.14:579][480]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-13.58.21:422][885]Job is a success!
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport:      BrickData 385x5x5 = 0.4Mb
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport:          1: 5.2% covering 6.3% of volume
+[2019.09.17-13.58.21:506][886]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2019.09.17-13.58.23:530][886]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.09.17-13.58.23:531][886]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.09.17-13.58.23:731][886]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 32X32)
+[2019.09.17-13.58.23:732][886]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2019.09.17-13.58.23:884][886]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.09.17-13.58.23:884][886]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2019.09.17-13.58.23:884][886]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.09.17-13.58.23:885][886]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2019.09.17-13.58.23:885][886]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.09.17-13.58.23:885][886]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.09.17-13.58.23:885][886]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2019.09.17-13.58.23:915][886]Lightmass on LAPTOP-G5OVRIAQ: 29.4 sec total, 127 ms importing, 21 ms setup, 6.21 sec photons, 23.0 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 4:13 min total, 1:52 min processing.
+[2019.09.17-13.58.23:917][886]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 9 meshes in 9 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.09.17-13.58.23:960][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.09.17-13.58.23:967][886]LogStaticLightingSystem: Illumination: 34.7 sec (1.75 sec encoding lightmaps, 351 ms encoding shadowmaps)
+[2019.09.17-13.58.23:967][886]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.09.17-13.58.23:967][886]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 9 textures
+[2019.09.17-13.58.24:740][886]DumpUnbuiltLightIteractions
+[2019.09.17-13.58.24:740][886]Lights with unbuilt interactions: 0
+[2019.09.17-13.58.24:740][886]
+[2019.09.17-13.58.24:740][886]Primitives with unbuilt interactions: 0
+[2019.09.17-13.58.24:876][887]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.17-13.58.24:876][887]MapCheck: New page: TestMap - Sep 17, 2019, 5:58:24 AM
+[2019.09.17-13.58.24:878][887]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.312ms to complete.
+[2019.09.17-13.58.37:472][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.58.52:901][565]Cmd: TRANSACTION UNDO
+[2019.09.17-13.58.52:901][565]LogEditorTransaction: Undo Create Actors
+[2019.09.17-13.58.54:938][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-13.58.54:969][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.09.17-13.58.55:082][686]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap1699FEAE42B9064E371DDF84FDA444FF.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-13.58.55:702][686]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData7BE5BA2B40A92548A55D3D8C705C1E27.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-13.58.56:303][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.59.05:570][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.59.22:213][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-13.59.56:845][349]EditorErrors: New page: Actor attachment
+[2019.09.17-13.59.59:811][527]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-13.59.59:819][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-13.59.59:819][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-13.59.59:819][527]PIE: New page: PIE session: TestMap (Sep 17, 2019, 5:59:59 AM)
+[2019.09.17-13.59.59:820][527]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-13.59.59:831][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011062s)
+[2019.09.17-13.59.59:831][527]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-13.59.59:831][527]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.09.17-13.59.59:831][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.011737s)
+[2019.09.17-13.59.59:857][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.09.17-13.59.59:865][527]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-13.59.59:880][527]LogInit: FAudioDevice initialized.
+[2019.09.17-13.59.59:909][527]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-13.59.59:911][527]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-09.59.59
+[2019.09.17-13.59.59:911][527]LogWorld: Bringing up level for play took: 0.001756
+[2019.09.17-13.59.59:924][527]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.807
+[2019.09.17-13.59.59:924][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.00.03:799][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.00.03:800][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.00.03:830][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.00.03:831][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.00.03:858][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.00.03:862][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.09.17-14.00.03:903][761]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.17-14.00.10:404][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 1 (  Trying 18.232.220.76...)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (18.232.220.76) port 443 (#4))
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: 000002464E878180: libcurl info message cache 8 (Closing connection 4)
+[2019.09.17-14.00.14:745][412]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.00.27:046][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.00.27:129][154]MapCheck: New page: Map Check
+[2019.09.17-14.00.27:144][154]Cmd: MAP REBUILD ALLVISIBLE
+[2019.09.17-14.00.27:154][154]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.09.17-14.00.27:259][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.09.17-14.00.27:280][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:290][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:297][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:304][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:310][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:319][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:330][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:340][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-14.00.27:971][154]TextureStreamingBuild: Display: Compiling optional shaders took 0.701 seconds.
+[2019.09.17-14.00.27:989][154]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2019.09.17-14.00.28:001][154]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2019.09.17-14.00.28:026][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.09.17-14.00.28:026][154]LightingResults: New page: Lighting Build - Sep 17, 2019, 6:00:28 AM
+[2019.09.17-14.00.28:032][154]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.17-14.00.28:034][154]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.17-14.00.28:034][154]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.17-14.00.28:035][154]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.17-14.00.28:035][154]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7820
+[2019.09.17-14.00.32:608][154]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.17-14.00.32:608][154]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.17-14.00.32:608][154]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.17-14.00.32:608][154]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.17-14.00.32:608][154]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.17-14.00.32:707][154]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.09.17-14.00.32:707][154]MapCheck: New page: TestMap - Sep 17, 2019, 6:00:32 AM
+[2019.09.17-14.00.32:707][154]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.39ms to complete.
+[2019.09.17-14.00.32:731][154]LogEditorBuildUtils: Build time 0:05
+[2019.09.17-14.00.32:861][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.09.17-14.01.00:481][764]Job is a success!
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport:      BrickData 385x5x5 = 0.4Mb
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport:          1: 5.2% covering 6.3% of volume
+[2019.09.17-14.01.00:557][765]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2019.09.17-14.01.02:543][765]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2019.09.17-14.01.02:743][765]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2019.09.17-14.01.02:743][765]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 32X32)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X1024)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 1024X1024)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 1024X1024)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X1024)
+[2019.09.17-14.01.02:902][765]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X1024)
+[2019.09.17-14.01.02:909][765]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 9 meshes in 9 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.09.17-14.01.02:941][765]Lightmass on LAPTOP-G5OVRIAQ: 29.6 sec total, 104 ms importing, 14 ms setup, 6.33 sec photons, 23.1 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 4:14 min total, 1:51 min processing.
+[2019.09.17-14.01.02:962][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.17-14.01.02:966][765]LogStaticLightingSystem: Illumination: 34.9 sec (1.72 sec encoding lightmaps, 356 ms encoding shadowmaps)
+[2019.09.17-14.01.02:966][765]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.09.17-14.01.02:966][765]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 9 textures
+[2019.09.17-14.01.03:628][765]DumpUnbuiltLightIteractions
+[2019.09.17-14.01.03:629][765]Lights with unbuilt interactions: 0
+[2019.09.17-14.01.03:629][765]
+[2019.09.17-14.01.03:629][765]Primitives with unbuilt interactions: 0
+[2019.09.17-14.01.03:761][766]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.17-14.01.03:761][766]MapCheck: New page: TestMap - Sep 17, 2019, 6:01:03 AM
+[2019.09.17-14.01.03:761][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.327ms to complete.
+[2019.09.17-14.01.05:594][873]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.01.05:602][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.05:602][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.01.05:602][873]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:01:05 AM)
+[2019.09.17-14.01.05:602][873]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.01.05:613][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010691s)
+[2019.09.17-14.01.05:614][873]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.01.05:614][873]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2019.09.17-14.01.05:614][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.011400s)
+[2019.09.17-14.01.05:638][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.09.17-14.01.05:646][873]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.01.05:660][873]LogInit: FAudioDevice initialized.
+[2019.09.17-14.01.05:687][873]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.01.05:689][873]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.01.05
+[2019.09.17-14.01.05:689][873]LogWorld: Bringing up level for play took: 0.001293
+[2019.09.17-14.01.05:704][873]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.974
+[2019.09.17-14.01.05:705][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.14:535][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.14:535][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.01.14:566][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.01.14:566][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.14:593][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.01.14:596][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.09.17-14.01.14:645][404]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.17-14.01.18:646][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.01.28:317][223]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.01.28:335][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.28:335][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.01.28:335][223]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:01:28 AM)
+[2019.09.17-14.01.28:335][223]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.01.28:348][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012109s)
+[2019.09.17-14.01.28:349][223]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.01.28:350][223]LogPlayLevel: PIE: World Init took: (0.001968s)
+[2019.09.17-14.01.28:350][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.014656s)
+[2019.09.17-14.01.28:375][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.09.17-14.01.28:382][223]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.01.28:397][223]LogInit: FAudioDevice initialized.
+[2019.09.17-14.01.28:423][223]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.01.28:426][223]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.01.28
+[2019.09.17-14.01.28:426][223]LogWorld: Bringing up level for play took: 0.001419
+[2019.09.17-14.01.28:438][223]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.292
+[2019.09.17-14.01.28:439][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.30:647][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.30:647][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.01.30:679][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.01.30:679][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.30:705][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.01.30:708][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.17-14.01.30:756][358]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.09.17-14.01.31:907][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.01.37:124][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.01.38:272][808]Cmd: DELETE
+[2019.09.17-14.01.38:272][808]Cmd: ACTOR DELETE
+[2019.09.17-14.01.38:291][808]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2019.09.17-14.01.39:464][808]LogSlate: Window 'Message' being destroyed
+[2019.09.17-14.01.39:482][808]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.09.17-14.01.39:507][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.09.17-14.01.39:507][808]LogEditorActor: Deleted 1 Actors (1.221 secs)
+[2019.09.17-14.01.43:882][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.01.43:900][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.43:900][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.01.43:900][ 71]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:01:43 AM)
+[2019.09.17-14.01.43:900][ 71]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.01.43:911][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010612s)
+[2019.09.17-14.01.43:911][ 71]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.01.43:911][ 71]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.09.17-14.01.43:911][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.011384s)
+[2019.09.17-14.01.43:938][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.09.17-14.01.43:946][ 71]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.01.43:960][ 71]LogInit: FAudioDevice initialized.
+[2019.09.17-14.01.43:989][ 71]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.01.43:992][ 71]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.01.43
+[2019.09.17-14.01.43:992][ 71]LogWorld: Bringing up level for play took: 0.001195
+[2019.09.17-14.01.44:004][ 71]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.726
+[2019.09.17-14.01.44:005][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.56:584][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.56:584][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.01.56:612][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.01.56:612][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.01.56:640][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.01.56:642][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.17-14.01.56:690][828]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.17-14.01.56:756][832]Cmd: SELECT NONE
+[2019.09.17-14.02.00:925][ 82]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.09.17-14.02.03:363][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.02.07:012][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.02.07:029][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.02.07:029][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.02.07:029][446]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:02:07 AM)
+[2019.09.17-14.02.07:029][446]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.02.07:043][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013854s)
+[2019.09.17-14.02.07:044][446]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.02.07:044][446]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2019.09.17-14.02.07:044][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.015082s)
+[2019.09.17-14.02.07:071][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.17-14.02.07:078][446]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.02.07:092][446]LogInit: FAudioDevice initialized.
+[2019.09.17-14.02.07:117][446]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.02.07:119][446]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.02.07
+[2019.09.17-14.02.07:119][446]LogWorld: Bringing up level for play took: 0.001491
+[2019.09.17-14.02.07:130][446]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.4
+[2019.09.17-14.02.07:131][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.02.14:884][910]LogHttp: Warning: 000002468037B600: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.02.14:884][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.02.14:884][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 1 (  Trying 52.2.49.65...)
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.2.49.65) port 443 (#5))
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: 000002468037B600: libcurl info message cache 8 (Closing connection 5)
+[2019.09.17-14.02.14:885][910]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.02.15:548][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.02.15:549][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.02.15:577][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.02.15:578][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.02.15:608][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.02.15:610][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.17-14.02.15:656][952]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.17-14.02.18:141][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.02.42:034][529]MapCheck: New page: Map Check
+[2019.09.17-14.02.42:047][529]LightingResults: New page: Lighting Build - Sep 17, 2019, 6:02:42 AM
+[2019.09.17-14.02.42:055][529]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.17-14.02.42:058][529]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.17-14.02.42:058][529]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.17-14.02.42:059][529]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.17-14.02.42:059][529]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7820
+[2019.09.17-14.02.46:573][529]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.17-14.02.46:573][529]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.17-14.02.46:573][529]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.17-14.02.46:573][529]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.17-14.02.46:573][529]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.17-14.02.46:691][529]LogEditorBuildUtils: Build time 0:04
+[2019.09.17-14.02.46:743][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.09.17-14.03.07:357][737]Job is a success!
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport:      BrickData 55x5x5 = 0.1Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport:          1: 36.4% covering 6.3% of volume
+[2019.09.17-14.03.07:423][738]LogVolumetricLightmapImport:          2: 54.5% covering 0.1% of volume
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.09.17-14.03.08:749][738]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.09.17-14.03.08:758][738]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 9 meshes in 5 LightmapResourceClusters (1.8 Meshes per cluster).
+[2019.09.17-14.03.08:783][738]Lightmass on LAPTOP-G5OVRIAQ: 21.6 sec total, 108 ms importing, 13 ms setup, 3.86 sec photons, 17.6 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 3:13 min total, 1:14 min processing.
+[2019.09.17-14.03.08:789][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.09.17-14.03.08:793][738]LogStaticLightingSystem: Illumination: 26.7 sec (1.09 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.09.17-14.03.08:793][738]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.09.17-14.03.08:793][738]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.09.17-14.03.09:591][738]DumpUnbuiltLightIteractions
+[2019.09.17-14.03.09:592][738]Lights with unbuilt interactions: 0
+[2019.09.17-14.03.09:592][738]
+[2019.09.17-14.03.09:592][738]Primitives with unbuilt interactions: 0
+[2019.09.17-14.03.09:667][739]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.17-14.03.09:668][739]MapCheck: New page: TestMap - Sep 17, 2019, 6:03:09 AM
+[2019.09.17-14.03.09:668][739]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.294ms to complete.
+[2019.09.17-14.03.10:280][775]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.03.10:287][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.10:287][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.03.10:287][775]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:03:10 AM)
+[2019.09.17-14.03.10:287][775]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.03.10:296][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008609s)
+[2019.09.17-14.03.10:297][775]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.03.10:297][775]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.09.17-14.03.10:297][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.009355s)
+[2019.09.17-14.03.10:322][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.09.17-14.03.10:329][775]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.03.10:342][775]LogInit: FAudioDevice initialized.
+[2019.09.17-14.03.10:372][775]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.03.10:374][775]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.03.10
+[2019.09.17-14.03.10:374][775]LogWorld: Bringing up level for play took: 0.001299
+[2019.09.17-14.03.10:386][775]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.344
+[2019.09.17-14.03.10:387][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.18:922][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.18:922][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.03.18:956][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.03.18:956][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.18:992][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.03.18:994][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.09.17-14.03.19:023][289]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.17-14.03.21:108][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.03.25:466][675]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.03.25:485][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.25:485][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.03.25:485][675]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:03:25 AM)
+[2019.09.17-14.03.25:486][675]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.03.25:496][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010812s)
+[2019.09.17-14.03.25:497][675]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.03.25:497][675]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.09.17-14.03.25:497][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.011773s)
+[2019.09.17-14.03.25:523][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.09.17-14.03.25:532][675]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.03.25:546][675]LogInit: FAudioDevice initialized.
+[2019.09.17-14.03.25:572][675]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.03.25:575][675]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.03.25
+[2019.09.17-14.03.25:575][675]LogWorld: Bringing up level for play took: 0.001673
+[2019.09.17-14.03.25:588][675]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.857
+[2019.09.17-14.03.25:588][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.34:212][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.34:212][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.03.34:242][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.03.34:242][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.34:270][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.03.34:273][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.17-14.03.34:325][195]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.09.17-14.03.35:660][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.03.46:647][934]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.03.46:665][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.03.46:665][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.03.46:665][934]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:03:46 AM)
+[2019.09.17-14.03.46:665][934]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.03.46:677][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011333s)
+[2019.09.17-14.03.46:677][934]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.03.46:677][934]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2019.09.17-14.03.46:678][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.012205s)
+[2019.09.17-14.03.46:704][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.09.17-14.03.46:711][934]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.03.46:725][934]LogInit: FAudioDevice initialized.
+[2019.09.17-14.03.46:753][934]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.03.46:755][934]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.03.46
+[2019.09.17-14.03.46:755][934]LogWorld: Bringing up level for play took: 0.001219
+[2019.09.17-14.03.46:767][934]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.037
+[2019.09.17-14.03.46:768][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 1 (  Trying 52.45.123.19...)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#6))
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.04.15:050][631]LogHttp: Warning: 00000246094D65C0: libcurl info message cache 8 (Closing connection 6)
+[2019.09.17-14.04.15:068][632]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.04.29:930][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.29:930][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.04.29:961][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.04.29:961][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.29:988][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.04.29:990][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.17-14.04.30:042][525]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.17-14.04.32:194][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.04.37:610][979]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.04.37:629][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.37:629][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.04.37:629][979]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:04:37 AM)
+[2019.09.17-14.04.37:629][979]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.04.37:639][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010045s)
+[2019.09.17-14.04.37:640][979]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.04.37:640][979]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2019.09.17-14.04.37:640][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.010822s)
+[2019.09.17-14.04.37:665][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.09.17-14.04.37:672][979]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.04.37:688][979]LogInit: FAudioDevice initialized.
+[2019.09.17-14.04.37:714][979]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.04.37:716][979]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.04.37
+[2019.09.17-14.04.37:716][979]LogWorld: Bringing up level for play took: 0.001260
+[2019.09.17-14.04.37:728][979]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.998
+[2019.09.17-14.04.37:729][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.44:342][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.44:342][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.04.44:374][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.04.44:374][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.04.44:403][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.04.44:405][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.17-14.04.44:452][378]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.17-14.04.46:652][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.05.01:265][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-14.05.07:504][752]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2019.09.17-14.05.08:101][787]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2019.09.17-14.05.08:529][812]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.09.17-14.05.09:834][888]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.09.17-14.05.09:909][892]LogEditorViewport: Clicking on Actor (double click): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2019.09.17-14.05.11:297][970]LogSlate: Took 0.004081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.17-14.05.20:601][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.05.34:271][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.05.39:831][678]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.09.17-14.05.42:147][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.05.45:363][ 10]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2019.09.17-14.05.49:343][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.05.59:476][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.09.17-14.05.59:800][842]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.09.17-14.06.03:549][ 11]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.09.17-14.06.03:621][ 11]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.09.17-14.06.03:957][ 11]LogSlate: Took 0.004504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.17-14.06.08:492][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 1 (  Trying 52.21.102.187...)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.21.102.187) port 443 (#7))
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.06.15:174][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.06.15:175][668]LogHttp: Warning: 00000246C5E4EFC0: libcurl info message cache 8 (Closing connection 7)
+[2019.09.17-14.06.15:175][668]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.06.50:613][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.07.47:864][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.08.14:035][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 1 (  Trying 52.21.102.187...)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.21.102.187) port 443 (#8))
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.08.15:280][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.08.15:281][815]LogHttp: Warning: 00000246D4710F40: libcurl info message cache 8 (Closing connection 8)
+[2019.09.17-14.08.15:297][816]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.08.22:793][264]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.09.17-14.08.23:156][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.09.17-14.08.25:702][412]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.09.17-14.08.25:706][412]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.09.17-14.08.29:054][608]Cmd: DELETE
+[2019.09.17-14.08.29:054][608]Cmd: ACTOR DELETE
+[2019.09.17-14.08.29:056][608]LogEditorActor: Deleted Actor: SpotLight
+[2019.09.17-14.08.29:088][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.09.17-14.08.29:088][608]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.09.17-14.08.31:444][750]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.08.31:461][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.08.31:461][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.08.31:461][750]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:08:31 AM)
+[2019.09.17-14.08.31:461][750]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.08.31:471][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010057s)
+[2019.09.17-14.08.31:472][750]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.08.31:472][750]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.09.17-14.08.31:472][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.010722s)
+[2019.09.17-14.08.31:497][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.17-14.08.31:504][750]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.08.31:519][750]LogInit: FAudioDevice initialized.
+[2019.09.17-14.08.31:550][750]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.08.31:552][750]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.08.31
+[2019.09.17-14.08.31:552][750]LogWorld: Bringing up level for play took: 0.001268
+[2019.09.17-14.08.31:564][750]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.834
+[2019.09.17-14.08.31:565][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.08.39:207][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.08.39:207][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.08.39:233][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.08.39:233][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.08.39:266][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.08.39:269][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.17-14.08.39:318][211]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.09.17-14.08.41:818][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.08.41:875][364]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.09.17-14.09.13:289][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.09.16:404][416]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.09.17-14.09.16:545][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.09.17-14.09.18:506][532]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.09.18:518][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.09.18:518][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.09.18:518][532]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:09:18 AM)
+[2019.09.17-14.09.18:518][532]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.09.18:527][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009225s)
+[2019.09.17-14.09.18:528][532]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.09.18:528][532]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2019.09.17-14.09.18:528][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.009827s)
+[2019.09.17-14.09.18:554][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.09.17-14.09.18:561][532]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.09.18:576][532]LogInit: FAudioDevice initialized.
+[2019.09.17-14.09.18:603][532]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.09.18:605][532]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.09.18
+[2019.09.17-14.09.18:605][532]LogWorld: Bringing up level for play took: 0.001235
+[2019.09.17-14.09.18:617][532]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.113
+[2019.09.17-14.09.18:618][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.09.47:929][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.09.47:929][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.09.47:961][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.09.47:961][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.09.47:993][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.09.47:997][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.17-14.09.48:028][292]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.09.17-14.09.48:935][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-14.09.48:971][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.17-14.09.49:131][346]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMapDB97332B4EB42ADC8DE54497672F7AD7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-14.09.49:740][346]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData85565B034C3A24C516C6439E40D1DF70.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 1 (  Trying 52.55.229.147...)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.55.229.147) port 443 (#9))
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.10.15:933][581]LogHttp: Warning: 00000246D4711080: libcurl info message cache 8 (Closing connection 9)
+[2019.09.17-14.10.16:272][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 1 (  Trying 52.45.123.19...)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#10))
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: 00000246D4711080: libcurl info message cache 8 (Closing connection 10)
+[2019.09.17-14.12.16:813][942]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.14.04:482][363]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.14.04:501][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.04:501][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.14.04:501][363]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:14:04 AM)
+[2019.09.17-14.14.04:501][363]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.14.04:515][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014201s)
+[2019.09.17-14.14.04:516][363]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.14.04:516][363]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2019.09.17-14.14.04:516][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.014987s)
+[2019.09.17-14.14.04:552][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.17-14.14.04:558][363]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.14.04:573][363]LogInit: FAudioDevice initialized.
+[2019.09.17-14.14.04:599][363]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.14.04:601][363]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.14.04
+[2019.09.17-14.14.04:601][363]LogWorld: Bringing up level for play took: 0.001505
+[2019.09.17-14.14.04:614][363]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap -0.117
+[2019.09.17-14.14.04:614][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.08:087][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.08:087][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.14.08:123][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.14.08:123][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.08:157][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.14.08:160][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.09.17-14.14.08:190][573]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.09.17-14.14.09:541][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.14.16:729][ 83]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.09.17-14.14.16:858][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 1 (  Trying 54.165.171.83...)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.165.171.83) port 443 (#11))
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.14.17:056][ 93]LogHttp: Warning: 000002462ADA0CC0: libcurl info message cache 8 (Closing connection 11)
+[2019.09.17-14.14.17:073][ 94]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.14.18:749][194]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.14.18:761][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.18:761][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.14.18:761][194]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:14:18 AM)
+[2019.09.17-14.14.18:761][194]LogPlayLevel: Creating play world package: /Game/Phil/UEDPIE_0_TestMap
+[2019.09.17-14.14.18:772][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010199s)
+[2019.09.17-14.14.18:772][194]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.14.18:772][194]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.09.17-14.14.18:772][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/TestMap.TestMap to /Game/Phil/UEDPIE_0_TestMap.TestMap (0.010801s)
+[2019.09.17-14.14.18:799][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.09.17-14.14.18:806][194]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.14.18:819][194]LogInit: FAudioDevice initialized.
+[2019.09.17-14.14.18:848][194]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.14.18:850][194]LogWorld: Bringing World /Game/Phil/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.14.18
+[2019.09.17-14.14.18:850][194]LogWorld: Bringing up level for play took: 0.001256
+[2019.09.17-14.14.18:863][194]PIE: Play in editor start time for /Game/Phil/UEDPIE_0_TestMap 0.133
+[2019.09.17-14.14.18:863][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.48:189][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.48:189][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.14.48:222][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.14.48:222][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.14.48:261][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.14.48:265][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.17-14.14.48:299][954]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.09.17-14.14.49:139][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-14.14.49:172][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.17-14.14.49:317][  4]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap8B7489BF45C3A15BB5AC8CB6DF7D7397.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap.umap'
+[2019.09.17-14.14.49:920][  4]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData9BF8D2DE4182F4DFEC815086E9121159.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/TestMap_BuiltData.uasset'
+[2019.09.17-14.15.30:866][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.09.17-14.15.30:867][445]LogMetaData: Removing '/Game/Phil/Map/TestMap.TestMap_C' ref from Metadata '/Game/Phil/TestMap.PackageMetaData'
+[2019.09.17-14.15.30:867][445]LogMetaData: Removing '/Game/Phil/Map/TestMap.SKEL_TestMap_C' ref from Metadata '/Game/Phil/TestMap.PackageMetaData'
+[2019.09.17-14.15.31:435][445]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltData8DC96D654514BF11544F3DB3F4F14305.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Map/TestMap_BuiltData.uasset'
+[2019.09.17-14.15.31:474][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.09.17-14.15.31:614][445]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap883C2B2E4B640614C5CC0FAE0E5B52B7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Map/TestMap.umap'
+[2019.09.17-14.15.31:631][445]LogFileHelpers: Saving map 'TestMap' took 0.191
+[2019.09.17-14.15.31:813][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.09.17-14.15.31:840][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.09.17-14.15.31:874][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.17-14.15.31:901][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.17-14.16.26:732][201]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 1 (  Trying 3.216.167.239...)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.216.167.239) port 443 (#12))
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.16.26:919][209]LogHttp: Warning: 00000246D431EAC0: libcurl info message cache 8 (Closing connection 12)
+[2019.09.17-14.16.26:950][210]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.16.34:713][675]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Phil/Actors/Enemy.Enemy
+[2019.09.17-14.16.42:883][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.17.04:564][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.17.04:614][452]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.17.04:634][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.04:634][452]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.17-14.17.04:635][452]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.09.17-14.17.04:801][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.09.17-14.17.04:801][452]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.09.17-14.17.04:801][452]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:17:04 AM)
+[2019.09.17-14.17.04:801][452]LogPlayLevel: Creating play world package: /Game/Phil/Map/UEDPIE_0_TestMap
+[2019.09.17-14.17.04:812][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010485s)
+[2019.09.17-14.17.04:812][452]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.17.04:812][452]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2019.09.17-14.17.04:812][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/Map/TestMap.TestMap to /Game/Phil/Map/UEDPIE_0_TestMap.TestMap (0.011194s)
+[2019.09.17-14.17.04:844][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.17-14.17.04:851][452]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.17.04:865][452]LogInit: FAudioDevice initialized.
+[2019.09.17-14.17.04:897][452]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.17.04:899][452]LogWorld: Bringing World /Game/Phil/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.17.04
+[2019.09.17-14.17.04:903][452]LogWorld: Bringing up level for play took: 0.005300
+[2019.09.17-14.17.04:915][452]PIE: Play in editor start time for /Game/Phil/Map/UEDPIE_0_TestMap 0.185
+[2019.09.17-14.17.04:916][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.11:801][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.11:801][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.17.11:834][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.17.11:835][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.11:870][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.17.11:874][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.17-14.17.11:907][867]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.09.17-14.17.12:340][893]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.591 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.17-14.17.16:090][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.17.16:156][122]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.17.16:180][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.16:180][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.17.16:181][122]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:17:16 AM)
+[2019.09.17-14.17.16:181][122]LogPlayLevel: Creating play world package: /Game/Phil/Map/UEDPIE_0_TestMap
+[2019.09.17-14.17.16:194][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012661s)
+[2019.09.17-14.17.16:194][122]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.17.16:194][122]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2019.09.17-14.17.16:194][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/Map/TestMap.TestMap to /Game/Phil/Map/UEDPIE_0_TestMap.TestMap (0.013430s)
+[2019.09.17-14.17.16:224][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.09.17-14.17.16:233][122]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.17.16:245][122]LogInit: FAudioDevice initialized.
+[2019.09.17-14.17.16:273][122]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.17.16:275][122]LogWorld: Bringing World /Game/Phil/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.17.16
+[2019.09.17-14.17.16:275][122]LogWorld: Bringing up level for play took: 0.001709
+[2019.09.17-14.17.16:287][122]PIE: Play in editor start time for /Game/Phil/Map/UEDPIE_0_TestMap -0.443
+[2019.09.17-14.17.16:288][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.20:445][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.20:446][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.17.20:477][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.17.20:477][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.20:507][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.17.20:510][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.17-14.17.20:558][374]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.09.17-14.17.21:976][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.17.41:510][625]BlueprintLog: New page: Compile Enemy
+[2019.09.17-14.17.41:633][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.09.17-14.17.46:019][887]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.17.46:041][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.46:041][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.17.46:041][887]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:17:46 AM)
+[2019.09.17-14.17.46:041][887]LogPlayLevel: Creating play world package: /Game/Phil/Map/UEDPIE_0_TestMap
+[2019.09.17-14.17.46:052][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010705s)
+[2019.09.17-14.17.46:052][887]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.17.46:053][887]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2019.09.17-14.17.46:053][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/Map/TestMap.TestMap to /Game/Phil/Map/UEDPIE_0_TestMap.TestMap (0.011463s)
+[2019.09.17-14.17.46:084][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.09.17-14.17.46:091][887]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.17.46:107][887]LogInit: FAudioDevice initialized.
+[2019.09.17-14.17.46:142][887]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.17.46:144][887]LogWorld: Bringing World /Game/Phil/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.17.46
+[2019.09.17-14.17.46:144][887]LogWorld: Bringing up level for play took: 0.001523
+[2019.09.17-14.17.46:156][887]PIE: Play in editor start time for /Game/Phil/Map/UEDPIE_0_TestMap -0.574
+[2019.09.17-14.17.46:157][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.51:454][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.51:454][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.17.51:484][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.17.51:484][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.17.51:518][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.17.51:521][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.09.17-14.17.51:556][205]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.09.17-14.17.52:923][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.17.54:323][371]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2019.09.17-14.17.57:417][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-14.17.57:464][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.09.17-14.17.57:615][555]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMapAC4A267146AB231DE910A8A35E574924.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Map/TestMap.umap'
+[2019.09.17-14.17.58:209][555]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap_BuiltDataA19A643B42308863B4155AA4C60FD4F3.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Map/TestMap_BuiltData.uasset'
+[2019.09.17-14.18.00:295][680]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.17-14.18.00:303][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.18.00:303][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-14.18.00:303][680]PIE: New page: PIE session: TestMap (Sep 17, 2019, 6:18:00 AM)
+[2019.09.17-14.18.00:303][680]LogPlayLevel: Creating play world package: /Game/Phil/Map/UEDPIE_0_TestMap
+[2019.09.17-14.18.00:313][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009854s)
+[2019.09.17-14.18.00:314][680]LogAIModule: Creating AISystem for world TestMap
+[2019.09.17-14.18.00:314][680]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.09.17-14.18.00:314][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Phil/Map/TestMap.TestMap to /Game/Phil/Map/UEDPIE_0_TestMap.TestMap (0.010724s)
+[2019.09.17-14.18.00:348][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.09.17-14.18.00:355][680]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-14.18.00:369][680]LogInit: FAudioDevice initialized.
+[2019.09.17-14.18.00:400][680]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.09.17-14.18.00:402][680]LogWorld: Bringing World /Game/Phil/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.09.17-10.18.00
+[2019.09.17-14.18.00:402][680]LogWorld: Bringing up level for play took: 0.001883
+[2019.09.17-14.18.00:415][680]PIE: Play in editor start time for /Game/Phil/Map/UEDPIE_0_TestMap -0.316
+[2019.09.17-14.18.00:415][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.18.03:939][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.18.03:939][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.18.03:972][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-14.18.03:972][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Phil/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Phil/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Phil/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.09.17-14.18.04:009][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-14.18.04:013][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.09.17-14.18.04:046][893]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.09.17-14.18.06:180][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 1 (  Trying 52.71.135.85...)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.71.135.85) port 443 (#13))
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.18.27:074][259]LogHttp: Warning: 00000246F802AE80: libcurl info message cache 8 (Closing connection 13)
+[2019.09.17-14.18.27:089][260]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 1 (  Trying 52.45.123.19...)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#14))
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: 00000246F80047C0: libcurl info message cache 8 (Closing connection 14)
+[2019.09.17-14.20.27:656][866]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.21.26:383][246]LogEditorTransaction: Undo Delete current selection
+[2019.09.17-14.21.26:562][256]LogEditorTransaction: Undo Move Node
+[2019.09.17-14.21.26:738][266]LogEditorTransaction: Undo Move Node
+[2019.09.17-14.21.27:114][288]LogEditorTransaction: Undo Comment Bubble Visibility
+[2019.09.17-14.21.27:507][311]LogEditorTransaction: Undo Add Node
+[2019.09.17-14.21.28:500][367]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/Enemy3BE968F346C4CD772A787FBB71807A13.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Actors/Enemy.uasset'
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 1 (  Trying 52.70.58.29...)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.70.58.29) port 443 (#15))
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: 00000246C775CE00: libcurl info message cache 8 (Closing connection 15)
+[2019.09.17-14.22.28:307][262]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.24.25:420][623]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/Enemy20F2ED09403EFCFA07D5CFB6B8053339.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Actors/Enemy.uasset'
+[2019.09.17-14.24.26:674][698]LogSlate: Window 'Enemy' being destroyed
+[2019.09.17-14.24.26:679][698]LogSlate: Window 'Enemy' being destroyed
+[2019.09.17-14.24.26:736][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 1 (  Trying 34.230.183.16...)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.230.183.16) port 443 (#16))
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: 00000246C775EFC0: libcurl info message cache 8 (Closing connection 16)
+[2019.09.17-14.24.28:472][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-14.24.30:168][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.09.17-14.24.32:028][898]LogSlate: Window 'Save Content' being destroyed
+[2019.09.17-14.24.32:121][898]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/FirstPersonCharacter32CD7C4F451CF91C3EAE9AA19DEB3DC7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2019.09.17-14.24.32:154][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.09.17-14.24.32:318][898]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Saved/TestMap7901919D4A81DEA59F81E09C0CE575DF.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/Project/UnrealProject/GameEngineProject/Content/Phil/Map/TestMap.umap'
+[2019.09.17-14.24.32:338][898]LogFileHelpers: Saving map 'TestMap' took 0.211
+[2019.09.17-14.24.32:388][898]LogSlate: Window 'GameEngineProject - Unreal Editor' being destroyed
+[2019.09.17-14.24.32:390][898]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.17-14.24.32:579][899]Cmd: QUIT_EDITOR
+[2019.09.17-14.24.32:901][899]LogExit: Preparing to exit.
+[2019.09.17-14.24.33:779][899]LogExit: Editor shut down
+[2019.09.17-14.24.33:780][899]LogExit: Transaction tracking system shut down
+[2019.09.17-14.24.34:099][899]LogExit: Object subsystem successfully closed.
+[2019.09.17-14.24.34:165][899]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.17-14.24.34:169][899]LogD3D11RHI: Shutdown
+[2019.09.17-14.24.34:169][899]LogD3D11RHI: CleanupD3DDevice
+[2019.09.17-14.24.34:170][899]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.17-14.24.34:170][899]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.17-14.24.34:171][899]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.17-14.24.34:171][899]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.17-14.24.34:171][899]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.17-14.24.34:171][899]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.17-14.24.34:172][899]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.17-14.24.34:349][899]LogModuleManager: Shutting down and abandoning module BlueprintGraph (654)
+[2019.09.17-14.24.34:349][899]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (652)
+[2019.09.17-14.24.34:349][899]LogModuleManager: Shutting down and abandoning module WorldBrowser (650)
+[2019.09.17-14.24.34:350][899]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.09.17-14.24.34:350][899]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.09.17-14.24.34:350][899]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.09.17-14.24.34:350][899]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.09.17-14.24.34:350][899]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.09.17-14.24.34:352][899]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.09.17-14.24.34:352][899]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.09.17-14.24.34:352][899]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.09.17-14.24.34:353][899]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.09.17-14.24.34:353][899]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.09.17-14.24.34:354][899]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.09.17-14.24.34:355][899]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.09.17-14.24.34:355][899]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.09.17-14.24.34:355][899]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.09.17-14.24.34:355][899]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.09.17-14.24.34:356][899]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.09.17-14.24.34:356][899]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.09.17-14.24.34:356][899]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.09.17-14.24.34:359][899]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.09.17-14.24.34:359][899]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.09.17-14.24.34:359][899]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.09.17-14.24.34:359][899]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.09.17-14.24.34:360][899]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.09.17-14.24.34:360][899]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.09.17-14.24.34:361][899]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.09.17-14.24.34:361][899]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.09.17-14.24.34:361][899]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.09.17-14.24.34:362][899]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.09.17-14.24.34:363][899]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.09.17-14.24.34:364][899]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.09.17-14.24.34:364][899]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.09.17-14.24.34:364][899]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.09.17-14.24.34:364][899]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.09.17-14.24.34:365][899]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.09.17-14.24.34:366][899]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.09.17-14.24.34:368][899]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.09.17-14.24.34:369][899]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.09.17-14.24.34:369][899]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.09.17-14.24.34:369][899]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.09.17-14.24.34:369][899]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.09.17-14.24.34:369][899]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.09.17-14.24.35:385][899]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.09.17-14.24.35:385][899]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.09.17-14.24.35:385][899]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.09.17-14.24.35:385][899]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.09.17-14.24.35:385][899]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.09.17-14.24.35:385][899]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.09.17-14.24.35:386][899]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.09.17-14.24.35:386][899]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.09.17-14.24.35:387][899]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.09.17-14.24.35:387][899]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.09.17-14.24.35:387][899]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.09.17-14.24.35:387][899]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.09.17-14.24.35:388][899]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.09.17-14.24.35:388][899]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.09.17-14.24.35:388][899]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.09.17-14.24.35:388][899]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.09.17-14.24.35:388][899]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.09.17-14.24.35:388][899]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.09.17-14.24.35:389][899]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.09.17-14.24.35:390][899]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.09.17-14.24.35:390][899]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.09.17-14.24.35:391][899]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.09.17-14.24.35:391][899]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.09.17-14.24.35:435][899]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.09.17-14.24.35:435][899]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.09.17-14.24.35:436][899]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.09.17-14.24.35:438][899]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.09.17-14.24.35:438][899]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.09.17-14.24.35:438][899]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.09.17-14.24.35:438][899]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.09.17-14.24.35:439][899]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.09.17-14.24.35:440][899]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.09.17-14.24.35:440][899]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.09.17-14.24.35:440][899]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.09.17-14.24.35:444][899]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.09.17-14.24.35:444][899]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.09.17-14.24.35:445][899]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.09.17-14.24.35:445][899]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.09.17-14.24.35:445][899]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.09.17-14.24.35:446][899]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.09.17-14.24.35:446][899]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.09.17-14.24.35:446][899]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.09.17-14.24.35:447][899]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.09.17-14.24.35:447][899]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.09.17-14.24.35:447][899]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.09.17-14.24.35:447][899]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.09.17-14.24.35:447][899]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.09.17-14.24.35:448][899]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.09.17-14.24.35:449][899]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.09.17-14.24.35:449][899]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.09.17-14.24.35:451][899]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.09.17-14.24.35:682][899]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.09.17-14.24.35:684][899]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.09.17-14.24.35:684][899]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.09.17-14.24.35:684][899]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.09.17-14.24.35:685][899]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.09.17-14.24.35:685][899]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.09.17-14.24.35:685][899]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.09.17-14.24.35:685][899]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.09.17-14.24.35:686][899]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.09.17-14.24.35:686][899]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.09.17-14.24.35:686][899]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.09.17-14.24.35:686][899]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.09.17-14.24.35:686][899]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.09.17-14.24.35:686][899]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.09.17-14.24.35:687][899]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.09.17-14.24.35:687][899]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.09.17-14.24.35:687][899]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.09.17-14.24.35:687][899]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.09.17-14.24.35:687][899]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.09.17-14.24.35:687][899]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.09.17-14.24.35:688][899]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.09.17-14.24.35:689][899]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.09.17-14.24.35:689][899]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.09.17-14.24.35:689][899]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.09.17-14.24.35:691][899]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.09.17-14.24.35:692][899]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.09.17-14.24.35:692][899]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.09.17-14.24.35:692][899]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.09.17-14.24.35:692][899]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.09.17-14.24.35:693][899]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.09.17-14.24.35:693][899]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.09.17-14.24.35:693][899]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.09.17-14.24.35:694][899]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.09.17-14.24.35:695][899]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.09.17-14.24.35:696][899]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module GameEngineProject (296)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.17-14.24.35:697][899]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.17-14.24.35:799][899]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.17-14.24.35:901][899]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.09.17-14.24.35:901][899]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.09.17-14.24.35:901][899]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.09.17-14.24.35:901][899]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.09.17-14.24.35:901][899]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.09.17-14.24.35:902][899]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.09.17-14.24.35:902][899]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.09.17-14.24.35:904][899]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.09.17-14.24.35:905][899]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.09.17-14.24.35:905][899]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.09.17-14.24.35:906][899]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.09.17-14.24.35:906][899]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.09.17-14.24.35:907][899]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.09.17-14.24.35:908][899]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.09.17-14.24.35:909][899]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.09.17-14.24.35:909][899]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.09.17-14.24.35:909][899]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.09.17-14.24.35:909][899]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.09.17-14.24.35:909][899]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.09.17-14.24.35:910][899]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.09.17-14.24.35:911][899]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.09.17-14.24.35:911][899]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.09.17-14.24.35:911][899]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.09.17-14.24.35:912][899]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.09.17-14.24.35:912][899]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.09.17-14.24.35:912][899]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.09.17-14.24.35:912][899]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.09.17-14.24.35:912][899]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.09.17-14.24.35:913][899]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.09.17-14.24.35:913][899]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.09.17-14.24.35:915][899]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.09.17-14.24.35:916][899]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.09.17-14.24.35:918][899]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.09.17-14.24.35:918][899]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.09.17-14.24.35:919][899]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.09.17-14.24.35:920][899]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.09.17-14.24.35:926][899]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.09.17-14.24.35:926][899]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.09.17-14.24.35:928][899]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.09.17-14.24.35:928][899]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.09.17-14.24.35:930][899]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.09.17-14.24.35:931][899]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.09.17-14.24.35:931][899]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.09.17-14.24.35:932][899]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.09.17-14.24.35:932][899]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.09.17-14.24.35:933][899]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.09.17-14.24.35:978][899]LogDerivedDataCache: Shutdown
+[2019.09.17-14.24.35:978][899]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.09.17-14.24.35:979][899]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.09.17-14.24.35:979][899]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.09.17-14.24.35:980][899]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.09.17-14.24.35:980][899]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.09.17-14.24.35:980][899]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.09.17-14.24.35:981][899]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.09.17-14.24.35:981][899]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.09.17-14.24.35:981][899]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.09.17-14.24.35:981][899]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.09.17-14.24.35:981][899]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.09.17-14.24.35:982][899]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.09.17-14.24.35:984][899]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.09.17-14.24.35:984][899]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.09.17-14.24.35:984][899]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.09.17-14.24.35:985][899]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.09.17-14.24.35:985][899]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.09.17-14.24.35:986][899]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.09.17-14.24.35:986][899]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.09.17-14.24.35:987][899]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.09.17-14.24.35:987][899]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.09.17-14.24.35:997][899]LogHMD: Freeing OpenVRDLLHandle.
+[2019.09.17-14.24.35:997][899]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.09.17-14.24.35:998][899]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.09.17-14.24.35:998][899]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.09.17-14.24.35:998][899]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.09.17-14.24.35:998][899]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.09.17-14.24.35:999][899]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.09.17-14.24.36:000][899]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.09.17-14.24.36:016][899]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.09.17-14.24.36:016][899]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.17-14.24.36:016][899]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 1 (  Trying 34.230.183.16...)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.230.183.16) port 443 (#17))
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-14.24.36:016][899]LogHttp: Warning: 00000246F7F074C0: libcurl info message cache 8 (Closing connection 17)
+[2019.09.17-14.24.36:049][899]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.09.17-14.24.36:050][899]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.09.17-14.24.36:052][899]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.09.17-14.24.36:058][899]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.09.17-14.24.36:058][899]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.09.17-14.24.36:059][899]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.09.17-14.24.36:060][899]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.09.17-14.24.36:060][899]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.09.17-14.24.36:061][899]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.09.17-14.24.36:061][899]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.09.17-14.24.36:061][899]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.09.17-14.24.36:061][899]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.09.17-14.24.36:062][899]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.09.17-14.24.36:063][899]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.09.17-14.24.36:064][899]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.09.17-14.24.36:074][899]LogExit: Exiting.
+[2019.09.17-14.24.36:096][899]Log file closed, 09/17/19 10:24:36
