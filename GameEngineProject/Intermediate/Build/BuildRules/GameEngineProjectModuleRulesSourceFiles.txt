@@ -1,0 +1,3 @@
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProject.Build.cs
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProject.Target.cs
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProjectEditor.Target.cs

@@ -1,0 +1,10 @@
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProject\Definitions.GameEngineProject.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProject/GameEngineProjectHUD.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectHUD.generated.h

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameEngineProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{44C6F8FD-A249-4070-AE1A-AEE23B65930F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameEngineProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameEngineProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{56567813-D879-435D-927A-C28B63BD4ACF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameEngineProject">
+      <UniqueIdentifier>{43B4066E-D937-4D0D-9970-5CBCF930F7AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameEngineProject\GameEngineProject.Build.cs">
+      <Filter>Source\GameEngineProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameEngineProject\GameEngineProject.cpp">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProject\GameEngineProject.h">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProject\GameEngineProjectCharacter.cpp">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProject\GameEngineProjectCharacter.h">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProject\GameEngineProjectGameMode.cpp">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProject\GameEngineProjectGameMode.h">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProject\GameEngineProjectHUD.cpp">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProject\GameEngineProjectHUD.h">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProject\GameEngineProjectProjectile.cpp">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProject\GameEngineProjectProjectile.h">
+      <Filter>Source\GameEngineProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
