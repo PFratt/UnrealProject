@@ -562,3 +562,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.17-13.51.14:978][156]LogAssetRegistry: Asset discovery search completed in 7.0305 seconds
 [2019.09.17-13.51.14:980][156]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2019.09.17-13.51.14:980][156]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: request failed, libcurl error: 35 (SSL connect error)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 0 (  Trying 34.236.85.100...)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.85.100) port 443 (#0))
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 6 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.09.17-13.52.12:826][419]LogHttp: Warning: 000002464EAC6200: libcurl info message cache 7 (Closing connection 0)
+[2019.09.17-13.52.13:160][420]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5E31733-4ACA-4C6F-E053-44ACD7350855%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=031ce581448aebb55564079ec7ecf194%7C26b81dd4b90e47b1a6762aa00f40b824%7Caaf06244-6ebc-4d36-b62c-edeb95748ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream
