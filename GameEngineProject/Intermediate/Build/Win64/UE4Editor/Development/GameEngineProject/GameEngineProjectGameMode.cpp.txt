@@ -1,20 +1,20 @@
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProject\Definitions.GameEngineProject.h
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProjectGameMode.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProject\Definitions.GameEngineProject.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProjectGameMode.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectGameMode.generated.h
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProjectHUD.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectGameMode.generated.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProjectHUD.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectHUD.generated.h
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProjectCharacter.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectHUD.generated.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Source\GameEngineProject\GameEngineProjectCharacter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\5th\GameEngineIII\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectCharacter.generated.h
+C:\Users\philf\Desktop\School\Semester 5\Game Engine III\Project\UnrealProject\GameEngineProject\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProject\GameEngineProjectCharacter.generated.h
