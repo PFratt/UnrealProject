@@ -1499,3 +1499,152 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.19-20.15.49:805][825]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian3D650B924D8CE1B53A28959AE160501D.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap'
 [2019.10.19-20.15.49:849][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian_BuiltData" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset" SILENT=true
 [2019.10.19-20.15.49:892][825]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian_BuiltData2F1C555945FD47BEBF0A309F3128D2B4.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset'
+[2019.10.19-20.20.18:763][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.20.19:693][331]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.20.19:716][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.20.19:716][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.20.19:716][331]PIE: New page: PIE session: FirstLevelJulian (Oct 19, 2019, 12:20:19 PM)
+[2019.10.19-20.20.19:716][331]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstLevelJulian
+[2019.10.19-20.20.19:742][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025967s)
+[2019.10.19-20.20.19:743][331]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.10.19-20.20.19:743][331]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.10.19-20.20.19:743][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstLevelJulian.FirstLevelJulian to /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.026886s)
+[2019.10.19-20.20.19:769][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.19-20.20.19:772][331]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.20.19:789][331]LogInit: FAudioDevice initialized.
+[2019.10.19-20.20.19:789][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.20.19:818][331]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.10.19-20.20.19:820][331]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.10.19-16.20.19
+[2019.10.19-20.20.19:821][331]LogWorld: Bringing up level for play took: 0.002145
+[2019.10.19-20.20.19:833][331]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstLevelJulian 0.758
+[2019.10.19-20.20.19:834][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.20.48:641][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.20.48:641][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.20.48:691][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.20.48:692][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.20.48:716][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.20.48:719][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.19-20.20.48:744][919]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.19-20.21.03:736][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.21.05:484][823]Cmd: DUPLICATE
+[2019.10.19-20.21.05:484][823]Cmd: ACTOR DUPLICATE
+[2019.10.19-20.22.45:171][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.22.45:311][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-20.22.45:337][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.19-20.22.45:814][ 22]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulianD1F0A34E4CB37E321904EA99A2D9B71B.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap'
+[2019.10.19-20.22.45:858][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian_BuiltData" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset" SILENT=true
+[2019.10.19-20.22.45:909][ 22]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian_BuiltDataB81174774D5E30DA487F62AA3810D111.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset'
+[2019.10.19-20.31.37:572][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.31.44:512][ 68]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.19-20.31.47:384][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.31.55:645][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.31.59:373][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.32.12:962][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.32.18:173][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.32.54:732][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.33.24:970][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.33.26:536][545]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.33.26:554][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.33.26:554][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.33.26:554][545]PIE: New page: PIE session: FirstLevelJulian (Oct 19, 2019, 12:33:26 PM)
+[2019.10.19-20.33.26:554][545]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstLevelJulian
+[2019.10.19-20.33.26:583][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028664s)
+[2019.10.19-20.33.26:584][545]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.10.19-20.33.26:584][545]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.10.19-20.33.26:584][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstLevelJulian.FirstLevelJulian to /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.029520s)
+[2019.10.19-20.33.26:616][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.19-20.33.26:620][545]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.33.26:639][545]LogInit: FAudioDevice initialized.
+[2019.10.19-20.33.26:639][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.33.26:669][545]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.10.19-20.33.26:672][545]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.10.19-16.33.26
+[2019.10.19-20.33.26:672][545]LogWorld: Bringing up level for play took: 0.002833
+[2019.10.19-20.33.26:686][545]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstLevelJulian -0.389
+[2019.10.19-20.33.26:687][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.34.11:645][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.34.11:645][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.34.11:692][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.34.11:693][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.34.11:721][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.34.11:726][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.19-20.34.11:754][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.19-20.34.53:933][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.34.55:604][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.34.56:732][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.34.57:777][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.34.59:492][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.36.36:654][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.36.37:880][478]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.36.37:898][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.36.37:898][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.36.37:898][478]PIE: New page: PIE session: FirstLevelJulian (Oct 19, 2019, 12:36:37 PM)
+[2019.10.19-20.36.37:899][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstLevelJulian
+[2019.10.19-20.36.37:928][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029495s)
+[2019.10.19-20.36.37:929][478]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.10.19-20.36.37:929][478]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.10.19-20.36.37:929][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstLevelJulian.FirstLevelJulian to /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.030455s)
+[2019.10.19-20.36.37:956][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.19-20.36.37:960][478]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.36.37:980][478]LogInit: FAudioDevice initialized.
+[2019.10.19-20.36.37:980][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.36.38:007][478]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.10.19-20.36.38:010][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.10.19-16.36.38
+[2019.10.19-20.36.38:010][478]LogWorld: Bringing up level for play took: 0.002715
+[2019.10.19-20.36.38:024][478]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstLevelJulian 0.949
+[2019.10.19-20.36.38:025][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.37.48:930][415]LogHttp: Warning: 0000021381EDD080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.19-20.37.48:930][415]LogHttp: Warning: 0000021381EDD080: libcurl info message cache 0 (Connection 65 seems to be dead!)
+[2019.10.19-20.37.48:930][415]LogHttp: Warning: 0000021381EDD080: libcurl info message cache 1 (Closing connection 65)
+[2019.10.19-20.37.48:930][415]LogHttp: Warning: 0000021381EDD080: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.19-20.37.48:930][415]LogHttp: Warning: 0000021381EDD080: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.19-20.37.48:930][415]LogHttp: Warning: 0000021381EDD080: libcurl info message cache 4 (Closing connection 66)
+[2019.10.19-20.37.48:948][416]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B326D789A-41B9-18D4-CE87-8597110B9B88%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=569940d74dbd7c35eff46382181ae959%7C3e78faa684764497ba15c362f625de9d%7C0960a80b-c056-41a7-a198-b1b3a9ee106c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.19-20.38.27:101][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.38.27:102][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.38.27:149][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.38.27:149][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.38.27:179][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.38.27:182][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.19-20.38.27:209][589]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.19-20.38.28:334][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.38.28:473][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-20.38.28:500][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.19-20.38.29:380][652]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian679BA25340FE2CFF12FF3AA7C5720F76.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap'
+[2019.10.19-20.38.29:430][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian_BuiltData" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset" SILENT=true
+[2019.10.19-20.38.29:465][652]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian_BuiltData95FE7F5F41FC221A972390938AD7A350.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset'
+[2019.10.19-20.38.53:499][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.38.54:811][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.38.54:831][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.38.54:831][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.38.54:831][252]PIE: New page: PIE session: FirstLevelJulian (Oct 19, 2019, 12:38:54 PM)
+[2019.10.19-20.38.54:831][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstLevelJulian
+[2019.10.19-20.38.54:863][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032266s)
+[2019.10.19-20.38.54:863][252]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.10.19-20.38.54:863][252]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2019.10.19-20.38.54:863][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstLevelJulian.FirstLevelJulian to /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.033054s)
+[2019.10.19-20.38.54:901][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.19-20.38.54:905][252]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.38.54:924][252]LogInit: FAudioDevice initialized.
+[2019.10.19-20.38.54:924][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.38.54:952][252]LogLoad: Game class is 'GameEngineProjectGameMode'
+[2019.10.19-20.38.54:954][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.10.19-16.38.54
+[2019.10.19-20.38.54:955][252]LogWorld: Bringing up level for play took: 0.002624
+[2019.10.19-20.38.54:969][252]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstLevelJulian -0.107
+[2019.10.19-20.38.54:969][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.39.48:999][241]LogHttp: Warning: 000002139B60B600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.19-20.39.48:999][241]LogHttp: Warning: 000002139B60B600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.19-20.39.48:999][241]LogHttp: Warning: 000002139B60B600: libcurl info message cache 1 (Closing connection 67)
+[2019.10.19-20.39.49:016][242]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B326D789A-41B9-18D4-CE87-8597110B9B88%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=569940d74dbd7c35eff46382181ae959%7C3e78faa684764497ba15c362f625de9d%7C0960a80b-c056-41a7-a198-b1b3a9ee106c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.19-20.40.40:100][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.40.40:100][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.40.40:151][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.40.40:151][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Maps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Maps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.10.19-20.40.40:179][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.40.40:183][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.10.19-20.40.40:211][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.19-20.40.41:127][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.40.41:264][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.19-20.40.41:296][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.19-20.40.41:545][136]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian62C0B6BF40D3C572AB5C939CAEC0CDF0.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian.umap'
+[2019.10.19-20.40.41:584][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstLevelJulian_BuiltData" FILE="D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset" SILENT=true
+[2019.10.19-20.40.41:603][136]LogSavePackage: Moving 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Saved/FirstLevelJulian_BuiltDataD1D9F69E4F50CEC093F65A863463163A.tmp' to 'D:/5th/GameEngineIII/UnrealProject/GameEngineProject/Content/Maps/FirstLevelJulian_BuiltData.uasset'
